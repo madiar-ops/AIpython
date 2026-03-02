@@ -232,10 +232,10 @@ import numpy as np
 # print(b)
 
 
-img = np.array([
-    [1,2,3],
-    [4,5,6],
-    [7,8,9]
-])
-print(img)
-print(img[1,1])
+# img = np.array([
+#     [1,2,3],
+#     [4,5,6],
+#     [7,8,9]
+# ])
+# print(img)
+# print(img[1,1])
